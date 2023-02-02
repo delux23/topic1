@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-color: black;
+    }
+    
+    h1 {
+    color: navajowhite;
+    text-align: center;
+    font-size: 40px;
+    }
+
+    h2 {
+    color: navajowhite;
+    text-align:center;
+    font-size: 30px;
+    }
+
+    h3 {
+    color: navajowhite;
+    text-align:left;
+    font-size: 30px;
+    }
+
+    h4 {
+    color: navajowhite;
+    text-align:left;
+    font-size: 30px;
+    }
+
+    h5 {
+    color: navajowhite;
+    text-align:left;
+    font-size: 30px;
+        }
+    
+    p {
+    color: white;
+    font-size: 20px;
+    }
+    
+    ul {
+    color: white;
+    font-size: 20px;
+    }
